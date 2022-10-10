@@ -1,3 +1,3 @@
 # twitter remake
 
-This is twitter remake practise
+This is twitter remake project
